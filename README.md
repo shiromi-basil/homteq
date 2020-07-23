@@ -21,15 +21,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-#### Clone Repository:
+#### Clone Repository :
   
     git clone https://github.com/shiromi-basil/homteq.git
 
-#### Setup database:
+#### Setup database :
 
 Type `localhost/phpmyadmin/` in the browser's address bar. Click on the 'Import' tab in the navigation menu. Upload the file `homteq/homteq.sql` to setup datebase and add demo data into the database.
 
-#### Visit application:
+#### Visit application :
 
 Move the project folder to `C:\xampp\htdocs`. Start Apache and SQL in the XAMPP server. Type `localhost/homteq/index.php` in the browser's address bar.
 
@@ -53,6 +53,11 @@ Move the project folder to `C:\xampp\htdocs`. Start Apache and SQL in the XAMPP 
 * Checkout products in the basket.
 
 ## Screenshots
+#### Admin :
+![Admin Demo](demo/homteq-admin.gif)
+
+#### Customer :
+![Customer Demo](demo/homteq-customer.gif)
 
 ## Built With
 * [PHP](https://www.php.net/docs.php)
