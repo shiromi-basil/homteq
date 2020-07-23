@@ -38,7 +38,7 @@ Move the project folder to `C:\xampp\htdocs`. Start Apache and SQL in the XAMPP 
 * Admin login with admin privileges.
 * Customer login with customer privileges.
 
-#### Admin
+#### Admin :
 * Add new products.
 * Edit details of the existing product.
 * Delete delete products.
@@ -46,7 +46,7 @@ Move the project folder to `C:\xampp\htdocs`. Start Apache and SQL in the XAMPP 
 * View orders placed by the customers.
 * Process orders placed by the customers.
 
-#### Customers
+#### Customers :
 * View a list of products on offer.
 * View the details of the products on offer.
 * Add product to the basket.
